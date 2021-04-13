@@ -1,24 +1,11 @@
-# README
+# Stupid Coaching App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Stupid Coaching App is a simple Rails application with 2 pages:
 
-Things you may want to cover:
+- The first page is a form with an input, where a user can type a question to ask the coach
+- After submitting the form, the user is redirected to another page where they will see their question and the coach answer.
 
-* Ruby version
+Done during my time at Le Wagon.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Stupid Coaching App](/app/assets/images/stupid-coaching-1.png "Stupid Coaching App - ask a question")
+![Stupid Coaching App](/app/assets/images/stupid-coaching-2.png "Stupid Coaching App - read the answer")
